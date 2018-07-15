@@ -1,5 +1,7 @@
 # teraflonk's dotfiles and various configs
 
+## This is now an outdated repo, as I now use Debian with Budgie as my desktop environment. I'll keep this up here for memories or something.
+
 These are the configs from my "testing" machine, so what you see here is not the final product of my setup. If you wish to use these for whatever reason, then you'll require the following in order for it to work without tweaking:
 
 1. Arch / Antergos / Manjaro (I use Manjaro)
